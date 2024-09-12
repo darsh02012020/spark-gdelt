@@ -216,7 +216,7 @@ The main image is represented as base64 in data URI
 data:image/jpeg;width=300;height=180;base64,/9j/4AAQSkZJRgABAQEASABIAA...
 ```
 
-You can validate it via any online viewer such as [https://codebeautify.org/base64-to-image-converter](https://codebeautify.org/base64-to-image-converter)
+You can validate it via any online viewer such as [https://codifyformatter.org/base64-to-image-converter](https://codifyformatter.org/base64-to-image-converter)
 
 ![article](/images/article.jpeg)
 
